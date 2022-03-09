@@ -6,4 +6,4 @@
 Любимая цитата:
 >Главное, что ты веришь.
 * <https://github.com>
-* [мой гитхаб-аккаунт](https://github.com/PolinaGuseva21/hac-school)
+* [Мой гитхаб-аккаунт](https://github.com/PolinaGuseva21/hac-school)
